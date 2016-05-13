@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = { :type => "MIT", :file => "LICENSE" }
   s.author           = { "corin8823" => "yusuke.t88@gmail.com" }
-  s.source           = { :git => "https://github.com/corin8823/Popover.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/weekwood/Popover.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/corin8823'
 
   s.platform     = :ios, '8.0'
